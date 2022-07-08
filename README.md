@@ -1,12 +1,10 @@
 
-## Rider Demographics And Their Bike Share Patterns
+## Twitter Archive Wrangling and Analysis of "WeRateDogs"
 
 ## by Secil Carver
 
 <a href="https://www.udacity.com/course/data-analyst-nanodegree--nd002">Udacity Data Analyst Nanodegree</a><br>
 <em>Project 5: Data Visualization</em>
-
-## Twitter Archive Wrangling and Analysis of "WeRateDogs"
 
 <a href="https://www.udacity.com/course/data-analyst-nanodegree--nd002">Udacity - Data Analyst Nanodegree</a><br>
 <em>Project 4: Data Wrangling</em>
