@@ -1,10 +1,6 @@
 
 ## Twitter Archive Wrangling and Analysis of "WeRateDogs"
 
-
-<a href="https://www.udacity.com/course/data-analyst-nanodegree--nd002">Udacity Data Analyst Nanodegree</a><br>
-<em>Project 5: Data Visualization</em>
-
 <a href="https://www.udacity.com/course/data-analyst-nanodegree--nd002">Udacity - Data Analyst Nanodegree</a><br>
 <em>Project 4: Data Wrangling</em>
 
