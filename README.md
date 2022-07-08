@@ -1,7 +1,6 @@
 
 ## Twitter Archive Wrangling and Analysis of "WeRateDogs"
 
-## by Secil Carver
 
 <a href="https://www.udacity.com/course/data-analyst-nanodegree--nd002">Udacity Data Analyst Nanodegree</a><br>
 <em>Project 5: Data Visualization</em>
